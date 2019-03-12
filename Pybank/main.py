@@ -3,7 +3,7 @@ import os
 import csv
 
 #set path for file
-budget_data_csv = os.path.join(r"C:\\Users\\mlong\\Desktop\\UCI /Bootcamp\\budget_data.csv")
+budget_data_csv = os.path.join()
 
 #set the output of the text file
 text_path = "output.txt"
